@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Marshmallow
+PyMySQL
+requests
+
+
+#app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{DB_NAME}'
